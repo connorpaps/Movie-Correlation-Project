@@ -3,6 +3,7 @@
 A data analysis of the movie dataset downloaded from Kaggle in Python with readable code results using Jupyter Notebook.
 
 The goal was to attempt to find correlations between the gross revenue of a movie and other data variables such as budget and the company of the movie.
+
 Initial Hypothesis:
 - Budget and Gross Earnings potentially related (more money spent = higher quality movie = more gross revenue)
 - Company and Gross Earnings potentially related (More popular/larger companies may have bigger budgets/brand recognition = more gross revenue)
