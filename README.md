@@ -17,9 +17,9 @@ Tasks Performed:
 
 Findings Summary
 
-Initial Hypothesis Results
+Initial Hypothesis Results:
 - Budget was confirmed to have a positive correlation to gross earnings
 - Company did not have any positive correlation to gross earnings
 
-Newly Discovered Correlations
+Newly Discovered Correlations:
 - Votes also had a postiive correlation to gross earnings (more votes = more popular/viewed more = more gross revenue earned)
