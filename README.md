@@ -16,6 +16,7 @@ Tasks Performed:
 - Summary of Findings
 
 Findings Summary
+
 Initial Hypothesis Results
 - Budget was confirmed to have a positive correlation to gross earnings
 - Company did not have any positive correlation to gross earnings
