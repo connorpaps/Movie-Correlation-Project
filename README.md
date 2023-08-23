@@ -1,6 +1,6 @@
 # Movie-Correlation-Project
 
-A data analysis of the movie dataset downloaded from Kaggle in Python with readable code results using Jupyter Notebook.
+A data analysis of the movie dataset downloaded from Kaggle in Python. Coding and visualizations done through Jupyter Notebook.
 
 The goal was to attempt to find correlations between the gross revenue of a movie and other data variables such as budget and the company of the movie.
 
